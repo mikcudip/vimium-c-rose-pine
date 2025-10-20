@@ -9,28 +9,28 @@
   --shadow: 0 2px 4px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 
   /* ----------  DAY THEME  ---------- */
-  --bg: #282C34;
-  --fg: #ABB2BF;
-  --accent-fg: #404859; /* not actual color in one dark pro, just bg with slightly more blue */
-  --border: #E5C07B;
-  --lhbg: #D19A66; /* night link hint background */
+  --bg: #191724;
+  --fg: #EBBCBA;
+  --accent-fg: #242134; /* not actual color in one dark pro, just bg with slightly more blue */
+  --border: #F6C177;
+  --lhbg: #F6C177; /* night link hint background */
   --lhfg: #000000; /* night link hint foreground */
-  --title: #ABB2BF;
-  --title-accent: #D19A66;
-  --link: #BE5046;
-  --link-accent: #C678DD;
+  --title: #EBBCBA;
+  --title-accent: #F6C177;
+  --link: #EB6F92;
+  --link-accent: #C4A7E7;
   
   /* ---------- NIGHT THEME ---------- */
-  --nbg: #282C34;
-  --nfg: #ABB2BF;
-  --naccent-fg: #404859; /* not actual color in one dark pro, just bg with slightly more blue */
-  --nborder: #E5C07B;
-  --nlhbg: #D19A66; /* night link hint background */
+  --nbg: #191724;
+  --nfg: #EBBCBA;
+  --naccent-fg: #242134; /* not actual color in one dark pro, just bg with slightly more blue */
+  --nborder: #F6C177;
+  --nlhbg: #F6C177; /* night link hint background */
   --nlhfg: #000000; /* night link hint foreground */
-  --ntitle: #ABB2BF;
-  --ntitle-accent: #D19A66;
-  --nlink: #BE5046;
-  --nlink-accent: #C678DD;
+  --ntitle: #EBBCBA;
+  --ntitle-accent: #F6C177;
+  --nlink: #EB6F92;
+  --nlink-accent: #C4A7E7;
   
 
   font-family: var(--font);
@@ -103,26 +103,26 @@
   --shadow: 0 2px 4px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 
   /* ----------  DAY THEME  ---------- */
-  --bg: #fdf0ee;
+  --bg: #E0DEF4;
   --fg: #000000;
-  --accent-fg: #ececec;
-  --border: #ececec;
+  --accent-fg: #E0DEF4;
+  --border: #E0DEF4;
   --title: #000000;
-  --title-accent: #E5C07B;
-  --link: #BE5046;
-  --link-accent: #C678DD;
+  --title-accent: #F6C177;
+  --link: #EB6F92;
+  --link-accent: #C4A7E7;
   
   /* ---------- NIGHT THEME ---------- */
-  --nbg: #282C34;
-  --nfg: #ABB2BF;
-  --naccent-fg: #404859; /* not actual color in one dark pro, just bg with slightly more blue */
-  --nborder: #E5C07B;
-  --nlhbg: #D19A66; /* night link hint background */
+  --nbg: #191724;
+  --nfg: #EBBCBA;
+  --naccent-fg: #242134; /* not actual color in one dark pro, just bg with slightly more blue */
+  --nborder: #F6C177;
+  --nlhbg: #F6C177; /* night link hint background */
   --nlhfg: #000000; /* night link hint foreground */
-  --ntitle: #ABB2BF;
-  --ntitle-accent: #D19A66;
-  --nlink: #BE5046;
-  --nlink-accent: #C678DD;
+  --ntitle: #EBBCBA;
+  --ntitle-accent: #F6C177;
+  --nlink: #EB6F92;
+  --nlink-accent: #C4A7E7;
 
 
   font-family: var(--font);
@@ -292,26 +292,26 @@ body.has-dark{
   --shadow: 0 2px 4px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 
   /* ----------  DAY THEME  ---------- */
-  --bg: #fdf0ee;
+  --bg: #E0DEF4;
   --fg: #000000;
-  --accent-fg: #ececec;
-  --border: #ececec;
+  --accent-fg: #E0DEF4;
+  --border: #E0DEF4;
   --title: #000000;
-  --title-accent: #E5C07B;
-  --link: #BE5046;
-  --link-accent: #C678DD;
+  --title-accent: #F6C177;
+  --link: #EB6F92;
+  --link-accent: #C4A7E7;
   
   /* ---------- NIGHT THEME ---------- */
-  --nbg: #282C34;
-  --nfg: #ABB2BF;
-  --naccent-fg: #404859; /* not actual color in one dark pro, just bg with slightly more blue */
-  --nborder: #E5C07B;
-  --nlhbg: #D19A66; /* night link hint background */
+  --nbg: #191724;
+  --nfg: #EBBCBA;
+  --naccent-fg: #242134; /* not actual color in one dark pro, just bg with slightly more blue */
+  --nborder: #F6C177;
+  --nlhbg: #F6C177; /* night link hint background */
   --nlhfg: #000000; /* night link hint foreground */
-  --ntitle: #ABB2BF;
-  --ntitle-accent: #D19A66;
-  --nlink: #BE5046;
-  --nlink-accent: #C678DD;
+  --ntitle: #EBBCBA;
+  --ntitle-accent: #F6C177;
+  --nlink: #EB6F92;
+  --nlink-accent: #C4A7E7;
 
 
   font-family: var(--font);
